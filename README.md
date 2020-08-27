@@ -1,7 +1,7 @@
 # moviesrd
 An very basic list of movies that display information.
 
-API Used: http://www.omdbapi.com/
+API Used: https://www.themoviedb.org/
 
 Technologys and librarys: OkHttp, Glide, Gson, Volley, Material Design.
 
