@@ -1,5 +1,5 @@
 # moviesrd
-An very basic list of movies that display information.
+A very basic list of movies that display information.
 
 API Used: https://www.themoviedb.org/
 
